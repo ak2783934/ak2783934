@@ -1,12 +1,12 @@
 ### Hi there, I'm [Avinash !](https://affectionate-williams-35c125.netlify.app/) 👋
 
-Third-year undergrad from Jadavpur University, Upcoming ASDE Intern at  [Expedia group](https://www.expedia.com), and exploring open source communities.
+Final-year undergrad from Jadavpur University, Ex-SDE Intern at  [Expedia group](https://www.expedia.com), and exploring open source communities.
 
 - 🔭 I’m currently working on MERN stack project [iSharey Foundation](https://isharey.herokuapp.com/)
-- 👯 Decentralized apps intrigue me most
+- 👯 Decentralized apps intrigues me most
 - 🎞 [Silicon valley](https://www.imdb.com/title/tt2575988/) fan
 
-- 💬 Ask me about Data Structures and algorithms in C++, JavaScript, Bootstrap [here](https://affectionate-williams-35c125.netlify.app/#contact)
+- 💬 Discuss about Data Structures and algorithms in C++, JavaScript, Bootstrap [here](https://affectionate-williams-35c125.netlify.app/#contact)
 
 **Languages and Tools:**
 
@@ -21,4 +21,4 @@ Third-year undergrad from Jadavpur University, Upcoming ASDE Intern at  [Expedi
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ak2783934.ak2783934)
 
-#### You can find me @ [LinkedIn](https://www.linkedin.com/in/avinash-kumar-111513188/) and @[Portfolio website](https://affectionate-williams-35c125.netlify.app/)
+#### You can find me on [LinkedIn](https://www.linkedin.com/in/avinash-kumar-111513188/) and on my [portfolio website](https://affectionate-williams-35c125.netlify.app/)
