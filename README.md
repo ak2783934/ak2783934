@@ -1,24 +1,28 @@
-### Hi there, I'm [Avinash !](https://affectionate-williams-35c125.netlify.app/) 👋
+# 👋 Hi, I'm Avinash Kumar
 
-Final-year undergrad from Jadavpur University, Ex-SDE Intern at  [Expedia group](https://www.expedia.com), and exploring open source communities.
+Welcome to my GitHub! I am a Senior software engineer with a passion for building scalable, reliable distributed systems and event-driven architectures.
 
-- 🔭 I’m currently working on MERN stack project [iSharey Foundation](https://isharey.herokuapp.com/)
-- 👯 Decentralized apps intrigues me most
-- 🎞 [Silicon valley](https://www.imdb.com/title/tt2575988/) fan
+## 🚀 About Me
 
-- 💬 Discuss about Data Structures and algorithms in C++, JavaScript, Bootstrap [here](https://affectionate-williams-35c125.netlify.app/#contact)
+- 💼 **Backend Engineer** experienced in designing high-throughput financial systems, microservices, and event-driven platforms.
+- 🔨 **Tech Stack:** Golang, Kafka, Amazon SQS, AWS, Docker, Kubernetes, PostgreSQL, MySQL, Redis, GRPC, REST APIs.
+- 🏆 **System Design:** Architected and delivered critical APIs capable of handling 10,000+ TPS with a focus on data integrity, fault tolerance, and low latency.
+- 🤝 **Leadership:** Led feature development end-to-end, mentored junior engineers, and managed on-call/production support workloads.
+- 🧠 **Continuous Learning:** Eager adopter of new technologies, with recent experience integrating Retryable Streams and building robust message processing workflows.
+- 🧩 **Team Player:** Thrive in collaborative, high-paced environments—balancing feature delivery, technical debt, and operational excellence.
+- 🌱 Currently interested in building AI-powered platforms and modern cloud-native architectures.
 
-**Languages and Tools:**
+## 💡 Principles
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://api.slack.com/img/api/hosting_heroku.png"></code>
-<code><img height="20" src="https://clipartart.com/images/mongodb-logo-clipart-6.jpg"></code>
-<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FGitHub_logo.png&f=1&nofb=1"></code>
-<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F33%2FFigma-logo.svg%2F1200px-Figma-logo.svg.png&f=1&nofb=1"></code>
+- **Reliability:** Prioritize data integrity and system robustness in every project.
+- **Scalability:** Design systems for seamless horizontal scaling and future growth.
+- **Ownership:** Take responsibility from design to deployment to maintenance.
+- **Automation:** Invest in CI/CD, monitoring, and infrastructure as code.
+- **Knowledge Sharing:** Passionate about code reviews, mentorship, and open-source contribution.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ak2783934.ak2783934)
+## 📫 How to Reach Me
 
-#### You can find me on [LinkedIn](https://www.linkedin.com/in/avinash-kumar-111513188/) and on my [portfolio website](https://affectionate-williams-35c125.netlify.app/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avinash-kumar-111513188/) <!-- Change to your actual LinkedIn! -->
+- Email: avinashworks2000@gmail.com
+
+
