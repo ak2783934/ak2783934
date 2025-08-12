@@ -22,7 +22,7 @@ Welcome to my GitHub! I am a Senior software engineer with a passion for buildin
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avinash-kumar-111513188/) <!-- Change to your actual LinkedIn! -->
+- LinkedIn: [LINK](https://www.linkedin.com/in/avinash-kumar-111513188/) <!-- Change to your actual LinkedIn! -->
 - Email: avinashworks2000@gmail.com
 
 
